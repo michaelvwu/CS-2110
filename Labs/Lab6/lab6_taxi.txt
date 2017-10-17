@@ -1,0 +1,34 @@
+Nouns and verbs  
+- Taxi
+* location
+* is ready
+
+
+- Shuttle
+* location
+* destination
+
+- driver 
+* notified (pick up or drop off) 
+
+- system 
+* receive call
+* has available taxi 
+* time estimation
+* distance calculation
+* is satified
+
+
+- time
+* is idle
+* going to location
+* carrying passengers 
+
+- individual 
+* Decision (wait or pick up)
+
+- destination 
+* distance
+* 
+
+
