@@ -1,1 +1,3 @@
-# CS-2110
+# Software Development Methods
+
+Programming projects in Java
